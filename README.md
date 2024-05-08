@@ -1,3 +1,11 @@
+# Calendar Component
+
+Component is unfinished.
+
+To run application:
+- yarn
+- yarn vite
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
